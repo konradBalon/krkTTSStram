@@ -44,9 +44,9 @@ public class DataReader {
 
                    // System.out.println("found: " + matcher.group(1));  //wyświetla znalezione matche
                     builder.append(matcher.group(1) + "\n");
-                    writer.write(matcher.group(1) + "\n");
+                    writer.write(matcher.group(1) + "\n");///zapisuje dane w osobnych linijkach
 
-                    //    System.out.println(matcher.group().substring(5)+" "+matcher2.group().substring(5));
+
 
 
                 }
