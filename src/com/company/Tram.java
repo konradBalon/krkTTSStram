@@ -15,6 +15,16 @@ public class Tram {
         return longitude;
     }
 
+    @Override
+    public String toString() {
+        return "Tram{" +
+                "name='" + name + '\'' +
+                ", latitude=" + latitude +
+                ", longitude=" + longitude +
+                ", id='" + id + '\'' +
+                '}';
+    }
+
     public String getId() {
         return id;
     }
