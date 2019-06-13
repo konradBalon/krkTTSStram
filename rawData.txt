@@ -1,0 +1,186 @@
+latitude":180090068,"name":"77 Łagiewniki","tripId":"8059232507168919055","id":"-1188950297157113998","category":"tram","longitude":71924125
+latitude":180089002,"name":"22 Borek Fałęcki","tripId":"8059232507167952396","id":"-1188950297157114114","category":"tram","longitude":71762375
+latitude":180219136,"name":"1 Wzgórza Krzesławickie","tripId":"8059232507168398863","id":"-1188950297157113901","category":"tram","longitude":71925750
+latitude":180264974,"name":"5 Krowodrza Górka","tripId":"8059232507169840656","id":"-1188950297157113930","category":"tram","longitude":71802250
+latitude":180269566,"name":"44 Salwator","tripId":"8059232507170299403","id":"-1188950297157114278","category":"tram","longitude":72169500
+latitude":180340742,"name":"14 Cichy Kącik","tripId":"8059232507169836558","id":"-1188950297157114326","category":"tram","longitude":71997625
+latitude":180233978,"name":"78 Borek Fałęcki","tripId":"8059232507167989261","id":"-1188950297157113577","category":"tram","longitude":71820625
+latitude":180111798,"name":"18 Czerwone Maki P+R","tripId":"8059232507170262543","id":"-1188950297157113497","category":"tram","longitude":71724375
+latitude":180244556,"name":"44 Kombinat","tripId":"8059232507171180043","id":"-1188950297157114396","category":"tram","longitude":71921375
+latitude":180082688,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507167890960","id":"-1188950297157113561","category":"tram","longitude":71934875
+latitude":180057104,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507168935434","id":"-1188950297157113377","category":"tram","longitude":72085875
+latitude":180067190,"name":"76 Czerwone Maki P+R","tripId":"8059232507167976977","id":"-1188950297157113974","category":"tram","longitude":71919000
+latitude":180097694,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507168939530","id":"-1188950297157113349","category":"tram","longitude":71916125
+latitude":180110568,"name":"52 Os.Piastów","tripId":"8059232507168906765","id":"-1188950297157113373","category":"tram","longitude":71730625
+latitude":180066780,"name":"76 Czerwone Maki P+R","tripId":"8059232507170373133","id":"-1188950297157113942","category":"tram","longitude":71601375
+latitude":180285802,"name":"52 Czerwone Maki P+R","tripId":"8059232507168910860","id":"-1188950297157114484","category":"tram","longitude":72096750
+latitude":180340742,"name":"52 Os.Piastów","tripId":"8059232507170766347","id":"-1188950297157114372","category":"tram","longitude":72045375
+latitude":180367556,"name":"52 Czerwone Maki P+R","tripId":"8059232507171200525","id":"-1188950297157113429","category":"tram","longitude":72042125
+latitude":180247836,"name":"18 Krowodrza Górka","tripId":"8059232507167960590","id":"-1188950297157113525","category":"tram","longitude":71777625
+latitude":180212248,"name":"1 Wzgórza Krzesławickie","tripId":"8059232507167886861","id":"-1188950297157113934","category":"tram","longitude":71788125
+latitude":180073996,"name":"19 Dworzec Towarowy","tripId":"8059232507170762259","id":"-1188950297157117565","category":"tram","longitude":71754625
+latitude":180093840,"name":"78 Mały Płaszów P+R","tripId":"8059232507167985165","id":"-1188950297157113925","category":"tram","longitude":71765000
+latitude":180233158,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507170356746","id":"-1188950297157113409","category":"tram","longitude":71811000
+latitude":180056202,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507170782728","id":"-1188950297157113405","category":"tram","longitude":72083250
+latitude":180088182,"name":"78 Borek Fałęcki","tripId":"8059232507169390091","id":"-1188950297157113725","category":"tram","longitude":71761875
+latitude":180263826,"name":"21 Os.Piastów","tripId":"8059232507170283028","id":"-1188950297157117585","category":"tram","longitude":72422875
+latitude":180051856,"name":"3 Krowodrza Górka","tripId":"8059232507168402961","id":"-1188950297157113609","category":"tram","longitude":71997500
+latitude":180231026,"name":"78 Mały Płaszów P+R","tripId":"8059232507169435147","id":"-1188950297157117475","category":"tram","longitude":71761625
+latitude":180163704,"name":"78 Mały Płaszów P+R","tripId":"8059232507170381322","id":"-1188950297157113721","category":"tram","longitude":71902625
+latitude":180193798,"name":"78 Borek Fałęcki","tripId":"8059232507169394189","id":"-1188950297157113553","category":"tram","longitude":71813250
+latitude":180226926,"name":"14 Mistrzejowice","tripId":"8059232507168849422","id":"-1188950297157113593","category":"tram","longitude":71651750
+latitude":180319996,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507170704912","id":"-1188950297157113713","category":"tram","longitude":71751500
+latitude":180214052,"name":"18 Czerwone Maki P+R","tripId":"8059232507168833039","id":"-1188950297157113513","category":"tram","longitude":71791000
+latitude":180244884,"name":"52 Czerwone Maki P+R","tripId":"8059232507167964684","id":"-1188950297157114392","category":"tram","longitude":71921875
+latitude":180067682,"name":"52 Czerwone Maki P+R","tripId":"8059232507170315788","id":"-1188950297157117483","category":"tram","longitude":71624125
+latitude":180055956,"name":"76 Kurdwanów P+R","tripId":"8059232507168947728","id":"-1188950297157114018","category":"tram","longitude":71897750
+latitude":180046854,"name":"78 Borek Fałęcki","tripId":"8059232507171192332","id":"-1188950297157117641","category":"tram","longitude":71736250
+latitude":180243080,"name":"44 Salwator","tripId":"8059232507168894475","id":"-1188950297157114354","category":"tram","longitude":71917000
+latitude":180066042,"name":"11 Czerwone Maki P+R","tripId":"8059232507171151377","id":"-1188950297157114150","category":"tram","longitude":71602250
+latitude":180265220,"name":"10 Pleszów","tripId":"8059232507169824269","id":"-1188950297157114432","category":"tram","longitude":71977375
+latitude":180273174,"name":"18 Krowodrza Górka","tripId":"8059232507169381903","id":"-1188950297157113485","category":"tram","longitude":71787125
+latitude":180174774,"name":"18 Czerwone Maki P+R","tripId":"8059232507168415247","id":"-1188950297157117536","category":"tram","longitude":71751375
+latitude":180067928,"name":"78 Mały Płaszów P+R","tripId":"8059232507168960014","id":"-1188950297157113597","category":"tram","longitude":71751750
+latitude":180240210,"name":"2 Salwator","tripId":"8059232507170242076","id":"-1188950297157113833","category":"tram","longitude":71827250
+latitude":180048740,"name":"24 Cichy Kącik","tripId":"8059232507170749969","id":"-1188950297157114448","category":"tram","longitude":71822500
+latitude":180192240,"name":"71 Wzgórza Krzesławickie","tripId":"8059232507170348558","id":"-1188950297157114022","category":"tram","longitude":71719250
+latitude":180261776,"name":"44 Kombinat","tripId":"8059232507171175947","id":"-1188950297157114246","category":"tram","longitude":72141250
+latitude":180342710,"name":"71 Salwator","tripId":"8059232507170778638","id":"-1188950297157113873","category":"tram","longitude":72235250
+latitude":180323604,"name":"71 Wzgórza Krzesławickie","tripId":"8059232507169414669","id":"-1188950297157113829","category":"tram","longitude":72209500
+latitude":180319272,"name":"50 Kurdwanów P+R","tripId":"8059232507167948307","id":"-1188950297157113521","category":"tram","longitude":71753242
+latitude":180204458,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507169893898","id":"-1188950297157117479","category":"tram","longitude":71802875
+latitude":180156406,"name":"76 Czerwone Maki P+R","tripId":"8059232507171212815","id":"-1188950297157113978","category":"tram","longitude":71854750
+latitude":180230042,"name":"50 Kurdwanów P+R","tripId":"8059232507171163666","id":"-1188950297157117593","category":"tram","longitude":71855125
+latitude":180214544,"name":"22 Borek Fałęcki","tripId":"8059232507171171851","id":"-1188950297157114384","category":"tram","longitude":71913375
+latitude":180354354,"name":"52 Czerwone Maki P+R","tripId":"8059232507169869324","id":"-1188950297157117556","category":"tram","longitude":72047125
+latitude":180240456,"name":"71 Wzgórza Krzesławickie","tripId":"8059232507167972878","id":"-1188950297157117581","category":"tram","longitude":72013000
+latitude":180189698,"name":"1 Wzgórza Krzesławickie","tripId":"8059232507169308175","id":"-1188950297157113905","category":"tram","longitude":71689500
+latitude":180115488,"name":"18 Krowodrza Górka","tripId":"8059232507169349136","id":"-1188950297157113517","category":"tram","longitude":71765000
+latitude":180106632,"name":"10 Łagiewniki","tripId":"8059232507167907340","id":"-1188950297157114472","category":"tram","longitude":71771625
+latitude":180064976,"name":"18 Czerwone Maki P+R","tripId":"8059232507167911439","id":"-1188950297157117621","category":"tram","longitude":71607875
+latitude":180224630,"name":"14 Mistrzejowice","tripId":"8059232507170274828","id":"-1188950297157114476","category":"tram","longitude":71755250
+latitude":180261530,"name":"10 Łagiewniki","tripId":"8059232507170721293","id":"-1188950297157114338","category":"tram","longitude":72422625
+latitude":180264810,"name":"52 Czerwone Maki P+R","tripId":"8059232507171188235","id":"-1188950297157113389","category":"tram","longitude":72057625
+latitude":180212412,"name":"1 Salwator","tripId":"8059232507170233870","id":"-1188950297157113853","category":"tram","longitude":71793875
+latitude":180057842,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507171130895","id":"-1188950297157113673","category":"tram","longitude":72010125
+latitude":180331066,"name":"5 Wzgórza Krzesławickie","tripId":"8059232507168386577","id":"-1188950297157113845","category":"tram","longitude":72218750
+latitude":180114750,"name":"3 Krowodrza Górka","tripId":"8059232507169316369","id":"-1188950297157113685","category":"tram","longitude":71899125
+latitude":180111716,"name":"52 Czerwone Maki P+R","tripId":"8059232507169385996","id":"-1188950297157114262","category":"tram","longitude":71694500
+latitude":180341398,"name":"1 Salwator","tripId":"8059232507169312271","id":"-1188950297157113946","category":"tram","longitude":72235125
+latitude":180090396,"name":"19 Borek Fałęcki","tripId":"8059232507168423443","id":"-1188950297157113657","category":"tram","longitude":71763000
+latitude":180238734,"name":"50 Krowodrza Górka","tripId":"8059232507171216912","id":"-1188950297157117589","category":"tram","longitude":71850875
+latitude":180234634,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507170364938","id":"-1188950297157117495","category":"tram","longitude":71827375
+latitude":180251034,"name":"10 Łagiewniki","tripId":"8059232507171147275","id":"-1188950297157114298","category":"tram","longitude":71931750
+latitude":180236028,"name":"78 Mały Płaszów P+R","tripId":"8059232507170385420","id":"-1188950297157113533","category":"tram","longitude":71847375
+latitude":180145664,"name":"78 Mały Płaszów P+R","tripId":"8059232507168964109","id":"-1188950297157113913","category":"tram","longitude":72002375
+latitude":180319340,"name":"50 Kurdwanów P+R","tripId":"8059232507170790929","id":"-1188950297157117436","category":"tram","longitude":71751500
+latitude":180332378,"name":"9 Nowy Bieżanów P+R","tripId":"8059232507170713101","id":"-1188950297157114126","category":"tram","longitude":72056500
+latitude":180319586,"name":"5 Wzgórza Krzesławickie","tripId":"8059232507168853521","id":"-1188950297157117544","category":"tram","longitude":71751375
+latitude":180169772,"name":"22 Borek Fałęcki","tripId":"8059232507168869899","id":"-1188950297157113505","category":"tram","longitude":71735875
+latitude":180045542,"name":"19 Dworzec Towarowy","tripId":"8059232507168419347","id":"-1188950297157113849","category":"tram","longitude":71739375
+latitude":180244966,"name":"10 Pleszów","tripId":"8059232507167915531","id":"-1188950297157114330","category":"tram","longitude":72199375
+latitude":180065140,"name":"52 Os.Piastów","tripId":"8059232507170311692","id":"-1188950297157114456","category":"tram","longitude":71609625
+latitude":180242424,"name":"14 Cichy Kącik","tripId":"8059232507167923725","id":"-1188950297157113629","category":"tram","longitude":72018625
+latitude":180233732,"name":"71 Wzgórza Krzesławickie","tripId":"8059232507168927245","id":"-1188950297157113893","category":"tram","longitude":71853625
+latitude":180269484,"name":"21 Pleszów","tripId":"8059232507168431637","id":"-1188950297157113761","category":"tram","longitude":72226875
+latitude":180108518,"name":"76 Kurdwanów P+R","tripId":"8059232507168951824","id":"-1188950297157114038","category":"tram","longitude":71687000
+latitude":180085968,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507170360841","id":"-1188950297157113361","category":"tram","longitude":71929750
+latitude":180258168,"name":"22 Borek Fałęcki","tripId":"8059232507169369612","id":"-1188950297157114400","category":"tram","longitude":72126375
+latitude":180266040,"name":"18 Czerwone Maki P+R","tripId":"8059232507168837135","id":"-1188950297157117605","category":"tram","longitude":71777750
+latitude":180131724,"name":"24 Cichy Kącik","tripId":"8059232507168890383","id":"-1188950297157114358","category":"tram","longitude":71881375
+latitude":180273256,"name":"50 Kurdwanów P+R","tripId":"8059232507169361420","id":"-1188950297157113701","category":"tram","longitude":71786000
+latitude":180049970,"name":"50 Krowodrza Górka","tripId":"8059232507168435730","id":"-1188950297157113473","category":"tram","longitude":71877250
+latitude":180212330,"name":"18 Krowodrza Górka","tripId":"8059232507169865231","id":"-1188950297157113501","category":"tram","longitude":71760250
+latitude":180234060,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507170700817","id":"-1188950297157113529","category":"tram","longitude":71802500
+latitude":180187238,"name":"3 Krowodrza Górka","tripId":"8059232507170688528","id":"-1188950297157113605","category":"tram","longitude":71820500
+latitude":180118850,"name":"11 Czerwone Maki P+R","tripId":"8059232507170266641","id":"-1188950297157114122","category":"tram","longitude":71894750
+latitude":180208148,"name":"14 Cichy Kącik","tripId":"8059232507171155469","id":"-1188950297157113625","category":"tram","longitude":71853625
+latitude":180145336,"name":"11 Mały Płaszów P+R","tripId":"8059232507167919632","id":"-1188950297157114134","category":"tram","longitude":72002875
+latitude":180274322,"name":"50 Krowodrza Górka","tripId":"8059232507168955922","id":"-1188950297157113353","category":"tram","longitude":71782125
+latitude":180045624,"name":"78 Mały Płaszów P+R","tripId":"8059232507170332173","id":"-1188950297157117601","category":"tram","longitude":71739250
+latitude":180206508,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507168931338","id":"-1188950297157113421","category":"tram","longitude":71799875
+latitude":180229714,"name":"18 Czerwone Maki P+R","tripId":"8059232507170717200","id":"-1188950297157117560","category":"tram","longitude":71760125
+latitude":180215692,"name":"14 Mistrzejowice","tripId":"8059232507169832461","id":"-1188950297157114420","category":"tram","longitude":71879000
+latitude":180160260,"name":"9 Mistrzejowice","tripId":"8059232507169816077","id":"-1188950297157114106","category":"tram","longitude":71905125
+latitude":180266204,"name":"52 Os.Piastów","tripId":"8059232507171204619","id":"-1188950297157114318","category":"tram","longitude":71996000
+latitude":180315732,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507169885705","id":"-1188950297157113333","category":"tram","longitude":72234375
+latitude":180119424,"name":"19 Dworzec Towarowy","tripId":"8059232507168861714","id":"-1188950297157113677","category":"tram","longitude":71765000
+latitude":180184122,"name":"19 Borek Fałęcki","tripId":"8059232507169848851","id":"-1188950297157113585","category":"tram","longitude":71823625
+latitude":180048658,"name":"50 Kurdwanów P+R","tripId":"8059232507170307600","id":"-1188950297157117507","category":"tram","longitude":71816375
+latitude":180231682,"name":"52 Czerwone Maki P+R","tripId":"8059232507170323979","id":"-1188950297157113413","category":"tram","longitude":71801875
+latitude":180190600,"name":"44 Kombinat","tripId":"8059232507167956490","id":"-1188950297157114286","category":"tram","longitude":71689750
+latitude":180172396,"name":"50 Krowodrza Górka","tripId":"8059232507169422864","id":"-1188950297157117625","category":"tram","longitude":71890125
+latitude":180238734,"name":"2 Cmentarz Rakowicki","tripId":"8059232507171126810","id":"-1188950297157113861","category":"tram","longitude":71779875
+latitude":180319272,"name":"50 Kurdwanów P+R","tripId":"8059232507168472594","id":"-1188950297157113417","category":"tram","longitude":71753242
+latitude":180201670,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507170696721","id":"-1188950297157113613","category":"tram","longitude":71805125
+latitude":180109092,"name":"78 Borek Fałęcki","tripId":"8059232507171188237","id":"-1188950297157113557","category":"tram","longitude":71772875
+latitude":180132626,"name":"77 Łagiewniki","tripId":"8059232507168452111","id":"-1188950297157114002","category":"tram","longitude":71786875
+latitude":180046608,"name":"50 Kurdwanów P+R","tripId":"8059232507169861138","id":"-1188950297157117540","category":"tram","longitude":71813750
+latitude":180056940,"name":"77 Łagiewniki","tripId":"8059232507170328079","id":"-1188950297157114014","category":"tram","longitude":72084125
+latitude":180338528,"name":"14 Mistrzejowice","tripId":"8059232507169340940","id":"-1188950297157113693","category":"tram","longitude":72010375
+latitude":180134020,"name":"78 Borek Fałęcki","tripId":"8059232507170332172","id":"-1188950297157113958","category":"tram","longitude":71787375
+latitude":180278258,"name":"52 Os.Piastów","tripId":"8059232507169877516","id":"-1188950297157114444","category":"tram","longitude":72084375
+latitude":180366982,"name":"52 Czerwone Maki P+R","tripId":"8059232507169873419","id":"-1188950297157114428","category":"tram","longitude":72044125
+latitude":180211674,"name":"10 Pleszów","tripId":"8059232507169828365","id":"-1188950297157114380","category":"tram","longitude":71817375
+latitude":180119670,"name":"11 Mały Płaszów P+R","tripId":"8059232507168845329","id":"-1188950297157114074","category":"tram","longitude":71893750
+latitude":180123032,"name":"11 Czerwone Maki P+R","tripId":"8059232507169336849","id":"-1188950297157114174","category":"tram","longitude":71780250
+latitude":180115406,"name":"18 Krowodrza Górka","tripId":"8059232507169353230","id":"-1188950297157117573","category":"tram","longitude":71709625
+latitude":180227254,"name":"44 Salwator","tripId":"8059232507170295306","id":"-1188950297157114346","category":"tram","longitude":71757375
+latitude":180267598,"name":"14 Mistrzejowice","tripId":"8059232507170733581","id":"-1188950297157114416","category":"tram","longitude":72065250
+latitude":180059646,"name":"9 Mistrzejowice","tripId":"8059232507170258445","id":"-1188950297157114070","category":"tram","longitude":72027750
+latitude":180175922,"name":"50 Kurdwanów P+R","tripId":"8059232507169852945","id":"-1188950297157113433","category":"tram","longitude":71884125
+latitude":180057104,"name":"3 Krowodrza Górka","tripId":"8059232507170692621","id":"-1188950297157113689","category":"tram","longitude":72084875
+latitude":180074652,"name":"18 Czerwone Maki P+R","tripId":"8059232507168411149","id":"-1188950297157117552","category":"tram","longitude":71632500
+latitude":180120818,"name":"10 Pleszów","tripId":"8059232507170725389","id":"-1188950297157114234","category":"tram","longitude":71779000
+latitude":180199374,"name":"2 Salwator","tripId":"8059232507168824860","id":"-1188950297157113841","category":"tram","longitude":71740625
+latitude":180226434,"name":"24 Kurdwanów P+R","tripId":"8059232507168886289","id":"-1188950297157114306","category":"tram","longitude":71651250
+latitude":180140744,"name":"52 Czerwone Maki P+R","tripId":"8059232507170319883","id":"-1188950297157113425","category":"tram","longitude":71732250
+latitude":180264482,"name":"9 Mistrzejowice","tripId":"8059232507171139085","id":"-1188950297157114066","category":"tram","longitude":71960000
+latitude":180212576,"name":"78 Borek Fałęcki","tripId":"8059232507169431052","id":"-1188950297157113885","category":"tram","longitude":71759625
+latitude":180315404,"name":"5 Krowodrza Górka","tripId":"8059232507168857616","id":"-1188950297157113773","category":"tram","longitude":72191625
+latitude":180233158,"name":"24 Kurdwanów P+R","tripId":"8059232507168882193","id":"-1188950297157114334","category":"tram","longitude":71801125
+latitude":180099334,"name":"50 Kurdwanów P+R","tripId":"8059232507171184145","id":"-1188950297157113493","category":"tram","longitude":71914125
+latitude":180264646,"name":"73 Wzgórza Krzesławickie","tripId":"8059232507169889802","id":"-1188950297157113385","category":"tram","longitude":72057125
+latitude":180111306,"name":"18 Krowodrza Górka","tripId":"8059232507168443918","id":"-1188950297157113509","category":"tram","longitude":71765625
+latitude":180319094,"name":"18 Czerwone Maki P+R","tripId":"8059232507169377806","id":"-1188950297157117569","category":"tram","longitude":71753375
+latitude":180208640,"name":"22 Kopiec Wandy","tripId":"8059232507168878092","id":"-1188950297157113477","category":"tram","longitude":71858125
+latitude":180320488,"name":"18 Czerwone Maki P+R","tripId":"8059232507168439822","id":"-1188950297157113481","category":"tram","longitude":71750500
+latitude":180201178,"name":"22 Kopiec Wandy","tripId":"8059232507169857037","id":"-1188950297157114118","category":"tram","longitude":71802125
+latitude":180232912,"name":"78 Borek Fałęcki","tripId":"8059232507168476685","id":"-1188950297157113565","category":"tram","longitude":71854375
+latitude":180301218,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507168407058","id":"-1188950297157113537","category":"tram","longitude":71762750
+latitude":180368868,"name":"52 Czerwone Maki P+R","tripId":"8059232507169398281","id":"-1188950297157114412","category":"tram","longitude":72041625
+latitude":180155996,"name":"76 Kurdwanów P+R","tripId":"8059232507168468496","id":"-1188950297157113950","category":"tram","longitude":71807500
+latitude":180264318,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507170369034","id":"-1188950297157113365","category":"tram","longitude":72065625
+latitude":180185188,"name":"52 Czerwone Maki P+R","tripId":"8059232507168448010","id":"-1188950297157114314","category":"tram","longitude":71788000
+latitude":180146402,"name":"78 Borek Fałęcki","tripId":"8059232507171221005","id":"-1188950297157113601","category":"tram","longitude":71921125
+latitude":180065840,"name":"50 Kurdwanów P+R","tripId":"8059232507168902670","id":"-1188950297157113661","category":"tram","longitude":71919059
+latitude":180257758,"name":"10 Łagiewniki","tripId":"8059232507169332748","id":"-1188950297157114464","category":"tram","longitude":72132750
+latitude":180192076,"name":"24 Cichy Kącik","tripId":"8059232507170745873","id":"-1188950297157114452","category":"tram","longitude":71815500
+latitude":180204130,"name":"52 Os.Piastów","tripId":"8059232507167968780","id":"-1188950297157114368","category":"tram","longitude":71803375
+latitude":180211592,"name":"44 Kombinat","tripId":"8059232507170754059","id":"-1188950297157114282","category":"tram","longitude":71758875
+latitude":180083180,"name":"50 Krowodrza Górka","tripId":"8059232507170303503","id":"-1188950297157113645","category":"tram","longitude":71922375
+latitude":180109994,"name":"11 Mały Płaszów P+R","tripId":"8059232507170729488","id":"-1188950297157114170","category":"tram","longitude":71773375
+latitude":180110158,"name":"24 Kurdwanów P+R","tripId":"8059232507170287121","id":"-1188950297157114290","category":"tram","longitude":71903500
+latitude":180066124,"name":"11 Mały Płaszów P+R","tripId":"8059232507170270733","id":"-1188950297157114154","category":"tram","longitude":71599125
+latitude":180290394,"name":"3 Krowodrza Górka","tripId":"8059232507168382480","id":"-1188950297157113573","category":"tram","longitude":71776750
+latitude":180341562,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507168943625","id":"-1188950297157117238","category":"tram","longitude":72234875
+latitude":180266778,"name":"5 Krowodrza Górka","tripId":"8059232507169844752","id":"-1188950297157117629","category":"tram","longitude":72039625
+latitude":180343448,"name":"1 Wzgórza Krzesławickie","tripId":"8059232507171122702","id":"-1188950297157113970","category":"tram","longitude":72236250
+latitude":180213396,"name":"71 Salwator","tripId":"8059232507170352653","id":"-1188950297157113954","category":"tram","longitude":71764250
+latitude":180220202,"name":"24 Kurdwanów P+R","tripId":"8059232507170291217","id":"-1188950297157114266","category":"tram","longitude":71683500
+latitude":180182072,"name":"10 Łagiewniki","tripId":"8059232507169328652","id":"-1188950297157114302","category":"tram","longitude":71825875
+latitude":180189862,"name":"2 Cmentarz Rakowicki","tripId":"8059232507170246172","id":"-1188950297157113837","category":"tram","longitude":71689875
+latitude":180131068,"name":"3 Nowy Bieżanów P+R","tripId":"8059232507171134993","id":"-1188950297157113581","category":"tram","longitude":71881750
+latitude":180308024,"name":"73 Nowy Bieżanów P+R","tripId":"8059232507168464394","id":"-1188950297157117613","category":"tram","longitude":72235375
+latitude":180216430,"name":"71 Salwator","tripId":"8059232507169410573","id":"-1188950297157114006","category":"tram","longitude":71881375
+latitude":180265466,"name":"1 Salwator","tripId":"8059232507170237967","id":"-1188950297157113917","category":"tram","longitude":72063250
+latitude":180213232,"name":"78 Mały Płaszów P+R","tripId":"8059232507169897996","id":"-1188950297157113717","category":"tram","longitude":71792625
+latitude":180211100,"name":"50 Krowodrza Górka","tripId":"8059232507167981069","id":"-1188950297157113709","category":"tram","longitude":71853375
+latitude":180058088,"name":"9 Nowy Bieżanów P+R","tripId":"8059232507171143181","id":"-1188950297157114194","category":"tram","longitude":72043500
+latitude":180264482,"name":"5 Wzgórza Krzesławickie","tripId":"8059232507170741776","id":"-1188950297157113881","category":"tram","longitude":71802375
+latitude":180287360,"name":"1 Wzgórza Krzesławickie","tripId":"8059232507170229775","id":"-1188950297157117633","category":"tram","longitude":72100000
+latitude":180114914,"name":"76 Czerwone Maki P+R","tripId":"8059232507169418767","id":"-1188950297157117230","category":"tram","longitude":71712125
+latitude":180313026,"name":"71 Salwator","tripId":"8059232507170774542","id":"-1188950297157113825","category":"tram","longitude":72170625
+latitude":180231108,"name":"19 Dworzec Towarowy","tripId":"8059232507167940113","id":"-1188950297157117487","category":"tram","longitude":71854875
+latitude":180217250,"name":"14 Cichy Kącik","tripId":"8059232507170737677","id":"-1188950297157113541","category":"tram","longitude":71704250
+latitude":180064320,"name":"78 Mały Płaszów P+R","tripId":"8059232507170377229","id":"-1188950297157113865","category":"tram","longitude":71749750

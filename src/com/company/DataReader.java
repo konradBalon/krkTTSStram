@@ -26,8 +26,8 @@ public class DataReader {
                 yc.getInputStream()));
 
 
-        File file = new File("Dane.txt");
-        FileWriter writer = new FileWriter(file, true);
+        File file = new File("rawData.txt");
+        FileWriter writer = new FileWriter(file, false);
 
         try (Scanner scanner = new Scanner(in)) {
 
