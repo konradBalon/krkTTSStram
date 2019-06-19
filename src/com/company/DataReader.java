@@ -10,15 +10,19 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * method getRawDataFromURL() returns String with separated lines
+ * method CreateRawDataFile() crreates rawData.txt file
+ */
 public class DataReader {
 
 
-    public String readFromURL() throws IOException {
+    public String getRawDataFromURL() throws IOException {
 
 
-        String dane;
+        String rawData;
         StringBuilder builder = new StringBuilder();
-        int iloscTram = 0;
+
         URL url = new URL("http://www.ttss.krakow.pl/internetservice/geoserviceDispatcher/services/vehicleinfo/vehicles");
         URLConnection yc = url.openConnection();
 
@@ -26,40 +30,53 @@ public class DataReader {
                 yc.getInputStream()));
 
 
-        File file = new File("rawData.txt");
-        FileWriter writer = new FileWriter(file, false);
+        //   File file = new File("rawData.txt");
+        //     FileWriter writer = new FileWriter(file, false);
 
         try (Scanner scanner = new Scanner(in)) {
+            builder = new StringBuilder();
 
 
-            while (scanner.hasNext() && scanner.next() != null) {
-
+            while (scanner.hasNext()) {
 
                 Pattern patternGPS = Pattern.compile("(latitude.*?longitude..[0-9]*)");
-
                 Matcher matcher = patternGPS.matcher(scanner.nextLine());
-
 
                 while (matcher.find()) {
 
-                   // System.out.println("found: " + matcher.group(1));  //wyświetla znalezione matche
+                    //     System.out.println("found: " + matcher.group(1));  //wyświetla znalezione matche
                     builder.append(matcher.group(1) + "\n");
-                    writer.write(matcher.group(1) + "\n");///zapisuje dane w osobnych linijkach
-
-
-
 
                 }
-                writer.close();
-
             }
-            in.close();
+
 
         }
-        dane = builder.toString();
 
-return dane;
+
+        return builder.toString();
     }
 
+    public void createRawDataFile(String filename) {
+        File file = new File(filename);
+        try {
+            FileWriter writer = new FileWriter(file, false);
+            writer.write(getRawDataFromURL());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
+
+    }
+
+    public void createRawDataFile() {
+        File file = new File("rawData.txt");
+        try (FileWriter writer = new FileWriter(file, false)) {
+            writer.write(getRawDataFromURL());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+    }
 }
