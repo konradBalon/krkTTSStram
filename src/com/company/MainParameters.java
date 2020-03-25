@@ -2,6 +2,8 @@ package com.company;
 
 import java.io.IOException;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * method getAllTramProperties() return ~180 Tram objects with current lat,long, name and ID as a list
@@ -34,7 +36,6 @@ public class MainParameters {
         }
 
 
-
         String[] ways = set.toArray(new String[0]);
         return ways;
     }
@@ -62,6 +63,7 @@ public class MainParameters {
         List<Tram> trams = new ArrayList<>();
 
         String aktualnyString;
+        String[] podzielonyString;
 
         //     System.out.println("pobrane dane z TTSS: \n"+ s);
 
@@ -69,33 +71,50 @@ public class MainParameters {
 
 
         while (scanner.hasNextLine()) {
-             double localLatitude;
+            double localLatitude;
             double localLongitude;
             String id;
             String name;
 
             aktualnyString = scanner.nextLine();
+            podzielonyString = aktualnyString.split(",");
 
-            name = (aktualnyString.substring(28, 30));                                        //przypisuje name=nr linii
-            localLatitude = Double.parseDouble(aktualnyString.substring(10, 19));
-            localLongitude = Double.parseDouble(aktualnyString.substring(aktualnyString.length() - 8, aktualnyString.length()));
-            id = (aktualnyString.substring(aktualnyString.length() - 60, aktualnyString.length() - 40));
+            for (int i = 1; i < podzielonyString.length; i++) {
 
-            trams.add( new Tram(name, localLatitude/3600000, localLongitude/3600000, id));
+                //  System.out.println(podzielonyString[i]);
 
+                StringBuilder builder = new StringBuilder();
+                Pattern patternGPS = Pattern.compile("*?\")");
+                Matcher matcher = patternGPS.matcher(scanner.nextLine());
 
+                while (matcher.find()) {
+
+                    //     System.out.println("found: " + matcher.group(1));  //wyświetla znalezione matche
+                    builder.append(matcher.group(1) + "\n");
+                    System.out.println(matcher.group(1));
+                }
+            }
         }
-        Set<String> numeryLinii = new HashSet<>();
-        for (Tram t : trams) {
 
-            numeryLinii.add(t.getName());
-            //       System.out.println("name, latitude, longitude: " + t.getName() + " " + t.getLatitude() + "," + t.getLongitude());
+        //rams.add( new Tram(name, localLatitude/3600000, localLongitude/3600000, id));
 
 
-        }
+
+
+    Set<String> numeryLinii = new HashSet<>();
+        for(
+    Tram t :trams)
+
+    {
+
+        numeryLinii.add(t.getName());
+        //       System.out.println("name, latitude, longitude: " + t.getName() + " " + t.getLatitude() + "," + t.getLongitude());
+
+
+    }
 
 
         return trams;
-    }
+}
 }
 

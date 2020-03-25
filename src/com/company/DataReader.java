@@ -3,9 +3,16 @@
 
 package com.company;
 
-import java.io.*;
-import java.net.URL;
-import java.net.URLConnection;
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.util.EntityUtils;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -18,28 +25,27 @@ public class DataReader {
 
 
     public String getRawDataFromURL() throws IOException {
+        HttpClient httpClient = new DefaultHttpClient();
+        HttpResponse response = httpClient.execute(new HttpGet("https://krakowpodreka.pl/pl/vehicles/positions/"));
+        HttpEntity entity = response.getEntity();
+        String responseString = EntityUtils.toString(entity, "UTF-8");
+
 
 
         String rawData;
         StringBuilder builder = new StringBuilder();
 
-        URL url = new URL("http://www.ttss.krakow.pl/internetservice/geoserviceDispatcher/services/vehicleinfo/vehicles");
-        URLConnection yc = url.openConnection();
-
-        BufferedReader in = new BufferedReader(new InputStreamReader(
-                yc.getInputStream()));
-
 
         //   File file = new File("rawData.txt");
         //     FileWriter writer = new FileWriter(file, false);
 
-        try (Scanner scanner = new Scanner(in)) {
+        try (Scanner scanner = new Scanner(responseString)) {
             builder = new StringBuilder();
 
 
             while (scanner.hasNext()) {
 
-                Pattern patternGPS = Pattern.compile("(latitude.*?longitude..[0-9]*)");
+                Pattern patternGPS = Pattern.compile("(id.*?None None)");
                 Matcher matcher = patternGPS.matcher(scanner.nextLine());
 
                 while (matcher.find()) {
@@ -54,7 +60,8 @@ public class DataReader {
         }
 
 
-        return builder.toString();
+       // return builder.toString();
+        return  responseString;
     }
 
     public void createRawDataFile(String filename) {
