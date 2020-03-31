@@ -8,6 +8,26 @@ public class Item {
     public double latitude;
     public double longitude;
     public double heading;
+
+    @Override
+     public String toString() {
+        return "Item{" + "\n"+
+                "id=" + id +"\n"+
+                "name=" + name + '\n' +
+                "category=" + category + '\n' +
+                "latitude=" + latitude +'\n' +
+                "longitude=" + longitude +'\n' +
+                "heading=" + heading +'\n' +
+                "line_number=" + line_number + '\n' +
+                "direction=" + direction + '\n' +
+                "stock_number=" + stock_number + '\n' +
+                "stock_type=" + stock_type + '\n' +
+                "low_floor=" + low_floor + "\n"+
+                "low_floor_display=" + low_floor_display + '\n' +
+                "display=" + display + '\n' +
+                '}';
+    }
+
     public String line_number;
     public String direction;
     public String stock_number;
@@ -86,6 +106,23 @@ public class Item {
         return display;
     }
 
+    public String toString2Excel() {
+        return "Item{" + "\t"+
+                "id=" + id + "\t"+
+                "name=" + name + "\t"+
+                "category=" + category+ "\t"+
+                "latitude=" + latitude + "\t"+
+                "longitude=" + longitude+ "\t"+
+                "heading=" + heading + "\t"+
+                "line_number=" + line_number + "\t"+
+                "direction=" + direction + "\t"+
+                "stock_number=" + stock_number + "\t"+
+                "stock_type=" + stock_type + "\t"+
+                "low_floor=" + low_floor + "\t"+
+                "low_floor_display=" + low_floor_display + "\t"+
+                "display=" + display+ "\t"+
+                '}';
+    }
 
 
 }

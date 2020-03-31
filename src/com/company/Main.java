@@ -11,11 +11,10 @@ public class Main {
 
 
 DataReader dt = new DataReader();
-dt.createRawDataFile();
+
 
 String text = dt.getRawDataFromURL();
-
-
+StringBuilder builder = new StringBuilder();
         Gson g = new Gson();
         Positions  p = g.fromJson(text , Positions.class);
         System.out.println(p.positions.length);
@@ -23,12 +22,13 @@ String text = dt.getRawDataFromURL();
 
 for(int i=1;i<p.positions.length;i++)
 {
+builder.append(p.positions[i].toString2Excel());
+builder.append("\n");
+    System.out.println(p.positions[i].toString2Excel() );
 
-    System.out.println(p.positions[i].getName() );
+ }
 
-}
-
-
+        dt.createRawDataFile(Long.toString(p.timestamp) +".TXT" , builder.toString());
 
     }
 }
